@@ -1,0 +1,13 @@
+Wykonali: Franciszek Martyka, Patryk Piejko
+
+Program s³u¿y do sprawdzania pogody, na najbli¿sze piêæ dni, w mieœcie podanym przez
+u¿ytkownika. Dane dostarczane s¹ przez API serwisu openweathermap.org. Dodatkowo
+w menu g³ównym wyœwietlana jest informacja o obecnej pogodzie w Krakowie, oraz przechowywanne
+s¹ dane dotycz¹ce pogody w przesz³oœci, na podstawie których obliczane s¹ podstawowe 
+wskaŸniki statystyczne (œrednia, mediana, odchylenie standardowe, skoœnoœæ, mminimum, maximum)
+
+Do stworzenia GUI u¿ywamy biblioteki Tkinter, korzystamy równie¿ ze stworzonych przez nas
+grafik - t³o, przyciski, obrazy zale¿ne od pogody. Dane historyczne przechowywane s¹ w pliku
+data.txt, g³ówny kod programu w pliku main.py, a dodatkowe fukncje - functions.py. 
+
+Razem z projektem za³¹czamy równie¿ czcionke, z której korzystaliœmy przy tworzeniu GUI - Gill Sans MT Condensed.
